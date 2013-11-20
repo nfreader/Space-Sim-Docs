@@ -12,3 +12,5 @@
 Given a high enough skill level (option A), or enough money to purchase the ability (option B), players can purhcase commodities and combine them to create new commodities that aren't normally available. The current examples are below: 
 
 ![alt text](https://raw.github.com/nfreader/Space-Sim-Docs/master/manufacturing.png)
+
+Thusly, these manufactured commodities could be sold at a much higher price, used to construct additional space stations or raise a spob's tech level (among other things).
